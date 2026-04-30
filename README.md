@@ -1,2 +1,2 @@
-# Assignment
+# Projects
 Java programming Assignment
